@@ -1,0 +1,8 @@
+{
+  "name": "The Oregon Trail",
+  "description": "A historical frontier survival and wagon expedition game across the 1848 Oregon Trail from Independence, Missouri to Oregon City.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
